@@ -1,0 +1,266 @@
+v1	fact1	DHr										
+v2	fact2	Zt										
+v3	pass	UL	0									
+v4	fact1	Hr										
+v5	fact1	Ar										
+v1	pass	UL	0									
+v2	pass	UL	0									
+v4	pass	UL	0									
+v5	pass	UL	0									
+proc1	pass	0										
+proc1	fact1	DHr										
+fact1	pass	UL	0									
+proc2	pass	0										
+proc2	fact2	Zt										
+fact2	pass	UL	0									
+proc3	pass	0										
+proc4	fact1	Hr										
+proc4	pass	0										
+proc5	fact1	Ar										
+proc5	pass	0										
+fact2	caus2	DHr										
+caus2	caus1	t										
+caus1	caus2	DHr										
+caus2	pass	UL	0									
+caus1	pass	UL	0									
+fact1	caus1	t										
+rec	fact1	DHr										
+rec	pass	UL	0									
+ref1	fact1	DHr										
+ref1	pass	UL	0									
+ref2	fact1	Hr										
+ref2	pass	UL	0									
+ref3	pass	UL	0									
+vs1	caus1	t										
+vs1	pass	UL	0									
+n	proc1	lAş										
+adj1	proc1	lAş										
+n	vs1	lE										
+adj1	vs1	lE										
+pass	per5	sHn	YHn	YHnHz	sHnlAr	0						
+pass	emp1	0										
+neg	per5	sHn	YHn	YHnHz	sHnlAr	0						
+comp1	per5	sHn	YHn	YHnHz	sHnlAr	0						
+comp2	per5	sHn	YHn	YHnHz	sHnlAr	0						
+pass	comp1	YAbil	YHver	YAyaz	YAkal	YAdur	YAkoy	YAgel				
+neg	comp2	YAbil	YHver	YAgör								
+pass	neg	mE	YAmE									
+pass	ger	mAdAn	YAlI	YHp	mAksIzIn	YA	YHncA	YArAk	YAmAdAn	DHkçA		
+comp2	ger	YAlI	YHp	mAksIzIn	YA	YHncA	YArAk	DHkçA				
+comp1	ger	mAdAn	YAlI	YHp	mAksIzIn	YA	YHncA	YArAk	YAmAdAn	DHkçA		
+neg	ger	YAlI	YHp	mAksIzIn	YA	YHncA	YArAk	DHkçA				
+comp1	neg	mE	YAmE									
+per9	ger	Yken										
+pass	tns4	YA										
+tns3	per9	lAr	0									
+tns2	per9	lAr	0									
+tns1	per9	lAr	0									
+neg	tns4	YA										
+comp1	tns4	YA										
+neg	tns3	z										
+comp1	tns2	Xr										
+comp2	tns2	Xr										
+emp1	tns2	Xr										
+emp1	tns6	sA										
+comp2	tns6	sA										
+comp1	tns6	sA										
+neg	tns6	sA										
+emp1	tns5	DH										
+comp2	tns5	DH										
+comp1	tns5	DH										
+neg	tns5	DH										
+neg	tns1	YAcAK	mAlI	mHş	Uyor	mAktA						
+comp1	tns1	YAcAK	mAlI	mHş	Uyor	mAktA						
+comp2	tns1	YAcAK	mAlI	mHş	Uyor	mAktA						
+emp1	tns1	YAcAK	mAlI	mHş	Uyor	mAktA						
+tns4	per4	YHm	sHn	lIm	sHnHz	lAr	0					
+tns3	per3	sHn	sHnHz	lAr	0							
+neg	per3	m	YHz									
+tns3	per8	lAr										
+tns2	per8	lAr										
+tns1	per8	lAr										
+tns3	aux2	YDH	YsA									
+tns2	aux2	YDH	YsA									
+tns1	aux2	YDH	YsA									
+tns5	aux2	YDH	YsA									
+tns6	aux2	YDH										
+tns3	aux1	YmHş										
+tns2	aux1	YmHş										
+tns1	aux1	YmHş										
+tns6	aux1	YmHş										
+tns2	per1	YHm	sHn	YHz	sHnHz	lAr	0					
+tns1	per1	YHm	sHn	YHz	sHnHz	lAr	0					
+aux1	per1	YHm	sHn	YHz	sHnHz	lAr	0					
+tns5	per2	m	n	k	nHz	lAr	0					
+tns6	per2	m	n	k	nHz	lAr	0					
+tns5	per6	lAr										
+tns6	per7	lAr										
+per7	aux3	YDH	YmHş									
+per6	aux3	YDH	YsA									
+per1	aux3	DHr										
+aux2	per2	m	n	k	nHz	lAr	0					
+per8	aux3	YDH	YmHş	YsA								
+per3	end	#										
+per4	end	#										
+per1	end	#										
+per2	end	#										
+aux3	end	#										
+per5	end	#										
+ger	end	#										
+n	ns2	lHK										
+n	emp2	0										
+ns2	emp2	0										
+n	ns3	CHK										
+ns3	emp2	0										
+n	ns1	CH										
+ns1	emp2	0										
+ns2	ns1	CH										
+ns1	ns2	lHK										
+fact1	ns1	YHcH										
+fact2	ns1	YHcH										
+caus1	ns1	YHcH										
+caus2	ns1	YHcH										
+ns4	ns2	lHK	0									
+pass	inf1	YHş	mA									
+comp1	inf1	YHş	mA									
+comp2	inf1	YHş	mA									
+neg	inf1	YHş	mA									
+pass	inf2	mAK										
+comp1	inf2	mAK										
+comp2	inf2	mAK										
+neg	inf2	mAK										
+inf1	plu1	lAr	0									
+emp2	plu1	lAr	0									
+plu1	poss1	Um	Un	SH	UmHz	UnHz	lArI	0				
+inf2	poss1	0										
+poss1	case2	NHn	NDA									
+case2	ki	ki										
+ki	plu2	lAr										
+ki	poss2	0										
+case2	adjs6	ki										
+adjs6	end	#										
+plu2	poss2	Um	Un	SH	UmHz	UnHz	0					
+poss2	case1	NHn	NDA	NA	NDAn	NH	YlA	NCA	0			
+poss1	case1	NA	NDAn	NH	YlA	NCA	0					
+poss1	ile	YlA										
+poss2	ile	YlA										
+ile	emp3	0										
+poss1	advs	CAsInA										
+emp3	advs	Yken										
+case1	emp3	0										
+case2	emp3	0										
+emp3	aux7	YHm	sHn	YHz	sHnHz	lAr	0					
+emp3	aux6	DHr										
+emp3	per12	lAr										
+emp3	aux5	YDH	YsA									
+emp3	aux4	YmHş										
+aux4	advs	Yken										
+per10	advs	CAsInA										
+aux4	per10	YHm	sHn	YHz	sHnHz	lAr	0					
+aux5	per11	m	n	k	nHz	lAr	0					
+per12	aux9	YDH	YmHş	YsA								
+aux6	per13	lAr										
+aux7	aux8	DHr	0									
+per10	aux10	DHr	0									
+aux10	end	#										
+per11	end	#										
+advs	end	#										
+aux9	end	#										
+per13	end	#										
+aux8	end	#										
+pass	par1	YAcAK	YAn	YAsI	DHK	mHş						
+comp1	par1	YAcAK	YAn	YAsI	DHK	mHş						
+comp2	par1	YAcAK	YAn	YAsI	DHK	mHş						
+neg	par1	YAcAK	YAn	YAsI	DHK	mHş						
+neg	par2	z										
+par2	emp2	0										
+par1	emp2	0										
+par2	ns2	lHK										
+adj1	ns4	lH	sHz	0								
+adj1	end	#										
+ns1	adjs3	lH	sHz									
+ns2	adjs3	lH	sHz									
+ns3	adjs3	lH	sHz									
+adjs3	end	#										
+adjs5	end	#										
+adj1	ns1	CH										
+adj1	ns2	lHK										
+adj1	ns3	CHK										
+adjs5	ns2	lHK										
+adj3	end	#										
+adv	end	#										
+adjs1	end	#										
+adj2	end	#										
+adjs2	emp2	0										
+adjs2	end	#										
+caus1	adjs1	YHcH										
+caus2	adjs1	YHcH										
+fact1	adjs1	YHcH										
+fact2	adjs1	YHcH										
+v1	adjs1	YHcH										
+v2	adjs1	YHcH										
+v3	adjs1	YHcH										
+v4	adjs1	YHcH										
+v5	adjs1	YHcH										
+ref1	adjs1	YHcH										
+ref2	adjs1	YHcH										
+ref3	adjs1	YHcH										
+rec	adjs1	YHcH										
+proc1	adjs1	YHcH										
+proc2	adjs1	YHcH										
+proc3	adjs1	YHcH										
+proc4	adjs1	YHcH										
+proc5	adjs1	YHcH										
+vs1	adjs1	YHcH										
+n	adjs3	lH	sHz									
+n	adjs2	sAl										
+adjs2	ns1	CH										
+ns2	adjs2	sAl										
+adjs2	ns2	lHK										
+adjs3	ns2	lHK										
+adjs3	emp2	0										
+adjs4	emp2	0										
+adjs1	emp2	0										
+adjs5	emp2	0										
+n	adjs7	lHK										
+adjs7	end	#										
+n	poss3	Um	Un	SH	UmHz	UnHz						
+poss3	plu3	gil										
+plu3	plu1	lAr	0									
+n	poss4	Um	Un									
+poss4	plu1	lAr										
+n	adjs4	UmsH	sH									
+adj1	adjs4	UmsH	sH									
+adjs4	end	#										
+pn	end	#										
+cnj	end	#										
+cnj1	end	#										
+cnj2	end	#										
+com	end	#										
+pp1	end	#										
+pp2	emp3	0										
+pp3	emp2	0										
+abb	end	#										
+on	end	#										
+ip	end	#										
+int	end	#										
+sym	end	#										
+oth	end	#										
+nmr	end	#										
+punc	end	#										
+pro	emp2	0										
+pro3	emp2	0										
+pro2	ile	YlA										
+pro2	case1	YlA										
+pro2	emp3	0										
+pass	ger2	YHncA										
+comp2	ger2	YHncA										
+comp1	ger2	YHncA										
+neg	ger2	YHncA										
+pass	ger3	YArAk										
+comp2	ger3	YArAk										
+comp1	ger3	YArAk										
+neg	ger3	YArAk										
+ger2	case3	NA										
+ger3	case3	NDAn										
+case3	end	#										

@@ -1,0 +1,414 @@
+<analysisParagraph pindex="458264656">
+   <text>ağrı&apos;nın doğubayazıt ilçesinde bulunan karabulak jandarma karakolu&apos;na pkk intihar saldırısı düzenledi. i̇ki ton patlayıcı yüklü traktörle yapılan intihar saldırısında, 2 asker şehit oldu, 24 asker ise yaralandı. açıklamada, karakola teröristlerce 2 ton bomba yüklü bir traktörle intihar saldırısı düzenlendiği, saldırı sonucunda 2 askerin şehit olduğu, 24 askerin de yaralandığı açıklandı. kazada sürücü ahmet yeltekin (28) ile yanında oturan hamza demiray (55) öldü, araçta bulunan alihan öztürkoğlu (34) ise yaralandı.  kaza, i̇negöl&apos;de akşam saatlerinde meydana geldi.</text>
+   <sequenceList class="java.util.ArrayList">
+      <analysisSequence key="231768031" paragraphKey="458264656">
+         <sentence>ağrı&apos;nın doğubayazıt ilçesinde bulunan karabulak jandarma karakolu&apos;na pkk intihar saldırısı düzenledi.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>ağrı&apos;nın</annotation>
+               <word>ağrı&apos;nın</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>doğubayazıt:Noun|A3sg</annotation>
+               <word>doğubayazıt</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>ilçe|ilçe:N|si:POS3S|nde:LOC</annotation>
+               <word>ilçesinde</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>bulun|bulun:V+REF|an:Adj+PAR+CONTI</annotation>
+               <word>bulunan</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>karabulak:Noun|A3sg</annotation>
+               <word>karabulak</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>jandarma|jandarma:N</annotation>
+               <word>jandarma</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>karakolu&apos;na</annotation>
+               <word>karakolu&apos;na</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>pkk:Noun|A3sg</annotation>
+               <word>pkk</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>intihar|intihar:N</annotation>
+               <word>intihar</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>saldırı|saldırı:N|sı:POS3S</annotation>
+               <word>saldırısı</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>düzenlE|düzenle:V|di:PAST+OBS+PER3S</annotation>
+               <word>düzenledi</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="1321805437" paragraphKey="458264656">
+         <sentence>i̇ki ton patlayıcı yüklü traktörle yapılan intihar saldırısında, 2 asker şehit oldu, 24 asker ise yaralandı.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>i̇ki</annotation>
+               <word>i̇ki</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>ton|ton:N</annotation>
+               <word>ton</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>patlayıcı|patla:V|yıcı:Adj+SC</annotation>
+               <word>patlayıcı</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>yüklü|yük:N|lü:Adj+SC</annotation>
+               <word>yüklü</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>traktörlE|traktör:N|le:V+SC</annotation>
+               <word>traktörle</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>yapılan|yapılan:V+PROC</annotation>
+               <word>yapılan</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>intihar|intihar:N</annotation>
+               <word>intihar</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>saldırı|saldırı:N|sı:POS3S|nda:LOC</annotation>
+               <word>saldırısında</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>2</annotation>
+               <word>2</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>asker|asker:N</annotation>
+               <word>asker</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>şehiT|şehit:N</annotation>
+               <word>şehit</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>oldu|oldu:Int</annotation>
+               <word>oldu</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>24</annotation>
+               <word>24</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>asker|asker:N</annotation>
+               <word>asker</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>ise|ise:V+COND+PER3S</annotation>
+               <word>ise</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>yaralan|yaralan:V+REF|dı:PAST+OBS+PER3S</annotation>
+               <word>yaralandı</word>
+            </analysis>
+            <analysis index="18">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="2084792569" paragraphKey="458264656">
+         <sentence>açıklamada, karakola teröristlerce 2 ton bomba yüklü bir traktörle intihar saldırısı düzenlendiği, saldırı sonucunda 2 askerin şehit olduğu, 24 askerin de yaralandığı açıklandı.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>açıklE|açık:N|la:V+SC|ma:N+INF|da:LOC</annotation>
+               <word>açıklamada</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>karakol|karakol:N|a:DAT</annotation>
+               <word>karakola</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>terörist|terörist:N|ler:PLU|ce:EQU</annotation>
+               <word>teröristlerce</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>2</annotation>
+               <word>2</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>ton|ton:N</annotation>
+               <word>ton</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>bomba|bomba:N</annotation>
+               <word>bomba</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>yüklü|yük:N|lü:Adj+SC</annotation>
+               <word>yüklü</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>bir|bir:N</annotation>
+               <word>bir</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>traktörlE|traktör:N|le:V+SC</annotation>
+               <word>traktörle</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>intihar|intihar:N</annotation>
+               <word>intihar</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>saldırı|saldırı:N|sı:POS3S</annotation>
+               <word>saldırısı</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>düzenlen|düzenlen:V+PROC|diğ:Adj+PAR+PAST|i:POS3S</annotation>
+               <word>düzenlendiği</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>saldırı|saldırı:N</annotation>
+               <word>saldırı</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>sonuÇ|sonuc:N|u:POS3S|nda:LOC</annotation>
+               <word>sonucunda</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>2</annotation>
+               <word>2</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>askeri|askeri:Adj|n:POS2S</annotation>
+               <word>askerin</word>
+            </analysis>
+            <analysis index="18">
+               <annotation>şehiT|şehit:N</annotation>
+               <word>şehit</word>
+            </analysis>
+            <analysis index="19">
+               <annotation>ol|ol:V+PROC|duğ:Adj+PAR+PAST|u:POS3S</annotation>
+               <word>olduğu</word>
+            </analysis>
+            <analysis index="20">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="21">
+               <annotation>24</annotation>
+               <word>24</word>
+            </analysis>
+            <analysis index="22">
+               <annotation>askeri|askeri:Adj|n:POS2S</annotation>
+               <word>askerin</word>
+            </analysis>
+            <analysis index="23">
+               <annotation>dE|de:V</annotation>
+               <word>de</word>
+            </analysis>
+            <analysis index="24">
+               <annotation>yaralan|yaralan:V+REF|dığ:Adj+PAR+PAST|ı:POS3S</annotation>
+               <word>yaralandığı</word>
+            </analysis>
+            <analysis index="25">
+               <annotation>açıklE|açıkla:V|n:PASS|dı:PAST+OBS+PER3S</annotation>
+               <word>açıklandı</word>
+            </analysis>
+            <analysis index="26">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="117501025" paragraphKey="458264656">
+         <sentence>kazada sürücü ahmet yeltekin (28) ile yanında oturan hamza demiray (55) öldü, araçta bulunan alihan öztürkoğlu (34) ise yaralandı.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>kaza|kaza:N|da:LOC</annotation>
+               <word>kazada</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>sürücü|sür:V+PROC|ücü:Adj+SC</annotation>
+               <word>sürücü</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>ahmet:Noun|A3sg</annotation>
+               <word>ahmet</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>yeltekin:Noun|A3sg</annotation>
+               <word>yeltekin</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>(</annotation>
+               <word>(</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>28</annotation>
+               <word>28</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>)</annotation>
+               <word>)</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>ile|ile:Pp+ILE</annotation>
+               <word>ile</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>yan|yan:N|ı:POS3S|nda:LOC</annotation>
+               <word>yanında</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>otur|otur:V+PROC|an:Adj+PAR+CONTI</annotation>
+               <word>oturan</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>hamza:Noun|A3sg</annotation>
+               <word>hamza</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>demiray:Noun|A3sg</annotation>
+               <word>demiray</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>(</annotation>
+               <word>(</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>55</annotation>
+               <word>55</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>)</annotation>
+               <word>)</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>öl|öl:V+PROC|dü:PAST+OBS+PER3S</annotation>
+               <word>öldü</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>araç|araç:N|ta:LOC</annotation>
+               <word>araçta</word>
+            </analysis>
+            <analysis index="18">
+               <annotation>bulun|bulun:V+REF|an:Adj+PAR+CONTI</annotation>
+               <word>bulunan</word>
+            </analysis>
+            <analysis index="19">
+               <annotation>alihan:Noun|A3sg</annotation>
+               <word>alihan</word>
+            </analysis>
+            <analysis index="20">
+               <annotation>öztürkoğlu:Noun|A3sg</annotation>
+               <word>öztürkoğlu</word>
+            </analysis>
+            <analysis index="21">
+               <annotation>(</annotation>
+               <word>(</word>
+            </analysis>
+            <analysis index="22">
+               <annotation>34</annotation>
+               <word>34</word>
+            </analysis>
+            <analysis index="23">
+               <annotation>)</annotation>
+               <word>)</word>
+            </analysis>
+            <analysis index="24">
+               <annotation>ise|ise:V+COND+PER3S</annotation>
+               <word>ise</word>
+            </analysis>
+            <analysis index="25">
+               <annotation>yaralan|yaralan:V+REF|dı:PAST+OBS+PER3S</annotation>
+               <word>yaralandı</word>
+            </analysis>
+            <analysis index="26">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="203113274" paragraphKey="458264656">
+         <sentence>  kaza, i̇negöl&apos;de akşam saatlerinde meydana geldi.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation> </annotation>
+               <word> </word>
+            </analysis>
+            <analysis index="1">
+               <annotation>kaza|kaza:N</annotation>
+               <word>kaza</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>i̇negöl</annotation>
+               <word>i̇negöl</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>&apos;</annotation>
+               <word>&apos;</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>dE|de:V</annotation>
+               <word>de</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>akşam|akşam:N</annotation>
+               <word>akşam</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>saât|saat:N|leri:POS3P|nde:LOC</annotation>
+               <word>saatlerinde</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>meydan|meydan:N|a:DAT</annotation>
+               <word>meydana</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>gel|gel:V|di:PAST+OBS+PER3S</annotation>
+               <word>geldi</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+   </sequenceList>
+</analysisParagraph>

@@ -1,0 +1,19 @@
+aç	ACC23:1,2|NOM2:#5|ACC3:2,3,5|ACC1:4|ACC2:1,6	Verb	aç	V	v1	_	10
+er	ACC2DAT2:#14,2	Verb	er	V	v1	_	10
+şey	_	Noun	şey	N	n	_	_
+konu	_	Noun	konu	N	n	_	_
+adam	_	Noun	adam	N	n	_	_
+bu	_	Adjective	bu	Adj	adj1	_	_
+acemi	DAT2:296,297	Adjective	acemi	Adj	adj1	_	_
+koş	NULL:234,45,345	Verb	koş	V	v1	_	10
+oranla	DAT23:#773	Adverb	oranla	Adv	adv	oran/la~oran/lA~N/Adv+SC	_
+merak	DAT2:3453	Noun	merak	N	n	_	_
+söylE	NOM2:43|DAT1:34,45|ACC2DAT1:3,7,54|ACC2:4564	Verb	söyle/söylü	V	v2	_	11
+acele	_	Noun	acele	N	n	_	_
+getir	NOM2:234|ACC1DAT3:5334|ACC2DAT3:543|ACC2:5431	Verb	getir	V+FACT	fact1	gel/tir~gel/DHr~V/FACT	11
+aceleye getir	ACC2:6573	Verb	aceleye getir	V+FACT	fact1	gel/tir~gel/DHr~V/FACT	11
+kabul eT	NOM2:32|ACC2:4526|ACC2DAT3:41	Verb	kabul et/kabul ed	V	v1	_	10
+kabûl	_	Noun	kabul	N	n	_	_
+eT	NOM2:3|DAT1NOM2:345|DAT3:346|ACC4:345	Verb	et/ed	V	v1	_	10
+lakin	_	Conjunction	lakin	Cnj	cnj	_	_
+her dem taze	_	Adjective	her dem taze	Adj	adj1	_	_

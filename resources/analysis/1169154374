@@ -1,0 +1,312 @@
+<analysisParagraph pindex="1169154374">
+   <text>kereste ticareti ile uğraşan ve bir süre önce evlenen ahmet yeltekin, hamza demiray ve alihan öztürkoğlu isimli arkadaşlarıyla akşam saatlerinde boğazova köyü&apos;nden i̇negöl&apos;e gelirken yarışlarda da kullandığı 16 p 305 plakalı cip ile kaza yaptı. i̇ddiaya göre yeltekin&apos;in kullandığı cip, hız ve dikkatsizlik sonucu virajı alamayınca yaklaşık 30 metrelik uçuruma yuvarlandı. cip, dere yatağında yan yatarak dururken, kazada ahmet yeltekin ile hamza demiray olay yerinde öldü.</text>
+   <sequenceList class="java.util.ArrayList">
+      <analysisSequence key="1089624845" paragraphKey="1169154374">
+         <sentence>kereste ticareti ile uğraşan ve bir süre önce evlenen ahmet yeltekin, hamza demiray ve alihan öztürkoğlu isimli arkadaşlarıyla akşam saatlerinde boğazova köyü&apos;nden i̇negöl&apos;e gelirken yarışlarda da kullandığı 16 p 305 plakalı cip ile kaza yaptı.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>kereste|kereste:N</annotation>
+               <word>kereste</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>ticaret|ticaret:N|i:POS3S</annotation>
+               <word>ticareti</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>ile|ile:Pp+ILE</annotation>
+               <word>ile</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>uğraş|uğraş:V+REC|an:Adj+PAR+CONTI</annotation>
+               <word>uğraşan</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>ve|ve:Cnj</annotation>
+               <word>ve</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>bir|bir:N</annotation>
+               <word>bir</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>süre|süre:N</annotation>
+               <word>süre</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>önce|önce:Pp</annotation>
+               <word>önce</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>evlen|evlen:V+PROC|en:Adj+PAR+CONTI</annotation>
+               <word>evlenen</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>ahmet:Noun|A3sg</annotation>
+               <word>ahmet</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>yeltekin:Noun|A3sg</annotation>
+               <word>yeltekin</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>hamza:Noun|A3sg</annotation>
+               <word>hamza</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>demiray:Noun|A3sg</annotation>
+               <word>demiray</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>ve|ve:Cnj</annotation>
+               <word>ve</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>alihan:Noun|A3sg</annotation>
+               <word>alihan</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>öztürkoğlu:Noun|A3sg</annotation>
+               <word>öztürkoğlu</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>isimli|isim:N|li:Adj+SC</annotation>
+               <word>isimli</word>
+            </analysis>
+            <analysis index="18">
+               <annotation>arkadaş|arkadaş:N|ları:POS3P|yla:INS</annotation>
+               <word>arkadaşlarıyla</word>
+            </analysis>
+            <analysis index="19">
+               <annotation>akşam|akşam:N</annotation>
+               <word>akşam</word>
+            </analysis>
+            <analysis index="20">
+               <annotation>saât|saat:N|leri:POS3P|nde:LOC</annotation>
+               <word>saatlerinde</word>
+            </analysis>
+            <analysis index="21">
+               <annotation>boğazova:Noun|A3sg</annotation>
+               <word>boğazova</word>
+            </analysis>
+            <analysis index="22">
+               <annotation>köyü&apos;nden</annotation>
+               <word>köyü&apos;nden</word>
+            </analysis>
+            <analysis index="23">
+               <annotation>i̇negöl</annotation>
+               <word>i̇negöl</word>
+            </analysis>
+            <analysis index="24">
+               <annotation>&apos;</annotation>
+               <word>&apos;</word>
+            </analysis>
+            <analysis index="25">
+               <annotation>e|e:Sym</annotation>
+               <word>e</word>
+            </analysis>
+            <analysis index="26">
+               <annotation>gelir|gelir:N|ken:V&apos;+Adv</annotation>
+               <word>gelirken</word>
+            </analysis>
+            <analysis index="27">
+               <annotation>yarışlarda da kullandığı</annotation>
+               <word>yarışlarda da kullandığı</word>
+            </analysis>
+            <analysis index="28">
+               <annotation>16</annotation>
+               <word>16</word>
+            </analysis>
+            <analysis index="29">
+               <annotation>p|p:Sym</annotation>
+               <word>p</word>
+            </analysis>
+            <analysis index="30">
+               <annotation>305</annotation>
+               <word>305</word>
+            </analysis>
+            <analysis index="31">
+               <annotation>plakalı|plaka:N|lı:Adj+SC</annotation>
+               <word>plakalı</word>
+            </analysis>
+            <analysis index="32">
+               <annotation>cip|cip:N</annotation>
+               <word>cip</word>
+            </analysis>
+            <analysis index="33">
+               <annotation>ile|ile:Pp+ILE</annotation>
+               <word>ile</word>
+            </analysis>
+            <analysis index="34">
+               <annotation>kaza|kaza:N</annotation>
+               <word>kaza</word>
+            </analysis>
+            <analysis index="35">
+               <annotation>yap|yap:V|tı:PAST+OBS+PER3S</annotation>
+               <word>yaptı</word>
+            </analysis>
+            <analysis index="36">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="1368901243" paragraphKey="1169154374">
+         <sentence>i̇ddiaya göre yeltekin&apos;in kullandığı cip, hız ve dikkatsizlik sonucu virajı alamayınca yaklaşık 30 metrelik uçuruma yuvarlandı.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>i̇ddiaya</annotation>
+               <word>i̇ddiaya</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>göre|göre:Pp</annotation>
+               <word>göre</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>yeltekin&apos;in</annotation>
+               <word>yeltekin&apos;in</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>kullan|kullan:V|dığ:Adj+PAR+PAST|ı:POS3S</annotation>
+               <word>kullandığı</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>cip|cip:N</annotation>
+               <word>cip</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>hız|hız:N</annotation>
+               <word>hız</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>ve|ve:Cnj</annotation>
+               <word>ve</word>
+            </analysis>
+            <analysis index="8">
+               <annotation>dikkatsizliK|dikkat:N|siz:Adj+SC|lik:N+SC</annotation>
+               <word>dikkatsizlik</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>sonuÇ|sonuc:N|u:POS3S</annotation>
+               <word>sonucu</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>viraj|viraj:N|ı:POS3S</annotation>
+               <word>virajı</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>al|al:V+PROC|ama:NEG+INAB|yınca:Adv+GER+WHEN</annotation>
+               <word>alamayınca</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>yaklaşıK|yaklaşık:Adj</annotation>
+               <word>yaklaşık</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>30</annotation>
+               <word>30</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>metreliK|metre:N|lik:N+SC</annotation>
+               <word>metrelik</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>uçurum|uçurum:N|a:DAT</annotation>
+               <word>uçuruma</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>yuvarlan|yuvarlan:V+REF|dı:PAST+OBS+PER3S</annotation>
+               <word>yuvarlandı</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+      <analysisSequence key="-244236914" paragraphKey="1169154374">
+         <sentence>cip, dere yatağında yan yatarak dururken, kazada ahmet yeltekin ile hamza demiray olay yerinde öldü.</sentence>
+         <selectedList class="java.util.ArrayList">
+            <analysis index="0">
+               <annotation>cip|cip:N</annotation>
+               <word>cip</word>
+            </analysis>
+            <analysis index="1">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="2">
+               <annotation>dere|dere:N</annotation>
+               <word>dere</word>
+            </analysis>
+            <analysis index="3">
+               <annotation>yataK|yatağ:N|ı:POS3S|nda:LOC</annotation>
+               <word>yatağında</word>
+            </analysis>
+            <analysis index="4">
+               <annotation>yan|yan:V+PROC</annotation>
+               <word>yan</word>
+            </analysis>
+            <analysis index="5">
+               <annotation>yat|yat:V+PROC|arak:Adv+GER+BY</annotation>
+               <word>yatarak</word>
+            </analysis>
+            <analysis index="6">
+               <annotation>dur|dur:V+PROC|ur:AOR+PER3S|ken:V&apos;+Adv+WHL</annotation>
+               <word>dururken</word>
+            </analysis>
+            <analysis index="7">
+               <annotation>,</annotation>
+               <word>,</word>
+            </analysis>
+            <analysis index="8">
+               <annotation> kazada</annotation>
+               <word> kazada</word>
+            </analysis>
+            <analysis index="9">
+               <annotation>ahmet:Noun|A3sg</annotation>
+               <word>ahmet</word>
+            </analysis>
+            <analysis index="10">
+               <annotation>yeltekin:Noun|A3sg</annotation>
+               <word>yeltekin</word>
+            </analysis>
+            <analysis index="11">
+               <annotation>ile|ile:Pp+ILE</annotation>
+               <word>ile</word>
+            </analysis>
+            <analysis index="12">
+               <annotation>hamza:Noun|A3sg</annotation>
+               <word>hamza</word>
+            </analysis>
+            <analysis index="13">
+               <annotation>demiray:Noun|A3sg</annotation>
+               <word>demiray</word>
+            </analysis>
+            <analysis index="14">
+               <annotation>olay|olay:N</annotation>
+               <word>olay</word>
+            </analysis>
+            <analysis index="15">
+               <annotation>yerinde|yerinde:Adj</annotation>
+               <word>yerinde</word>
+            </analysis>
+            <analysis index="16">
+               <annotation>öl|öl:V+PROC|dü:PAST+OBS+PER3S</annotation>
+               <word>öldü</word>
+            </analysis>
+            <analysis index="17">
+               <annotation>.</annotation>
+               <word>.</word>
+            </analysis>
+         </selectedList>
+      </analysisSequence>
+   </sequenceList>
+</analysisParagraph>

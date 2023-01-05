@@ -1,0 +1,164 @@
+#	#	end	_	_
+Ar	ar/er	fact1	FACT	Factitive
+CAsInA	casına/cesine/çasına/çesine	advs	Adv+SC	Schema Changer Noun>>Adverb
+CH	cı/ci/cu/cü/çı/çi/çu/çü	ns1	N+SC	Schema Changer Noun>>Noun
+CHK	cık/cik/cuk/cük/çık/çik/çuk/çük/cığ/ciğ/cuğ/cüğ/çığ/çiğ/çuğ/çüğ	ns3	N+SC	Schema Changer Noun>>Noun
+DH	dı/di/du/dü/tı/ti/tu/tü	tns5	PAST+OBS+PER3S	Observed Past Tense
+DHK	dık/dik/duk/dük/tık/tik/tuk/tük/dığ/diğ/duğ/düğ/tığ/tiğ/tuğ/tüğ	par1	Adj+PAR+PAST	Participle (Adjective)
+DHkçA	dıkça/dikçe/dukça/dükçe/tıkça/tikçe/tukça/tükçe	ger	Adv+GER+AS	Gerundium (Adverb)
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	fact1	FACT	Factitive
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	caus2	CAUS	Causative
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	aux3	V'+AOR	Aorist Auxiliary
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	aux6	V'+AOR+PER3S	Aorist Auxiliary
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	aux8	V'+AOR	Aorist Auxiliary
+DHr	dır/dir/dur/dür/tır/tir/tur/tür	aux10	V'+AOR	Aorist Auxiliary
+gil	gil	plu3	PLU	Plural
+Hr	ır/ir/ur/ür	fact1	FACT	Factitive
+k	k	per2	PER1P	1st Person Plural
+k	k	per11	PER1P	1st Person Plural
+ki	ki	ki	REL	Relative
+ki	ki	adjs6	Adj+SC	Schema Changer Noun>>Adjective
+lAr	lar/ler	per9	PER3P	3rd Person Plural
+lAr	lar/ler	per4	PER3P	3rd Person Plural
+lAr	lar/ler	per3	PER3P	3rd Person Plural
+lAr	lar/ler	per8	PER3P	3rd Person Plural
+lAr	lar/ler	per1	PER3P	3rd Person Plural
+lAr	lar/ler	per2	PER3P	3rd Person Plural
+lAr	lar/ler	per6	PER3P	3rd Person Plural
+lAr	lar/ler	per7	PER3P	3rd Person Plural
+lAr	lar/ler	plu1	PLU	Plural
+lAr	lar/ler	plu2	PLU	Plural
+lAr	lar/ler	aux7	V'+AOR+PER3P	3rd Person Plural Auxiliary
+lAr	lar/ler	per12	V'+PER3P	3rd Person Plural Auxiliary
+lAr	lar/ler	per10	PER3P	3rd Person Plural
+lAr	lar/ler	per11	PER3P	3rd Person Plural
+lAr	lar/ler	per13	PER3P	3rd Person Plural
+lArI	ları/leri	poss1	POS3P	3rd Person Plural Possesive
+lAş	laş/leş	proc1	V+SC+PROC	Verb of Process
+lE	la/le/lı/li/lu/lü	vs1	V+SC	Schema Changer Noun>>Verb
+lH	lı/li/lu/lü	ns4	N+SC	Schema Changer Adjective>>Noun
+lH	lı/li/lu/lü	adjs3	Adj+SC	Schema Changer Noun>>Adjective
+lHK	lık/lik/luk/lük/lığ/liğ/luğ/lüğ	ns2	N+SC	Schema Changer Noun>>Noun
+lHK	lık/lik/luk/lük/lığ/liğ/luğ/lüğ	adjs7	Adj+SC	Schema Changer Noun>>Adjective
+lIm	lım/lim	per4	PER1P	1st Person Plural
+m	m	per3	AOR+PER1S	1st Person Singular
+m	m	per2	PER1S	1st Person Singular
+m	m	per11	PER1S	1st Person Singular
+mA	ma/me	inf1	N+INF	Infinitive (Noun)
+mAdAn	madan/meden	ger	Adv+GER+WO	Gerundium (Adverb)
+mAK	mak/mek	inf2	N+INF	Infinitive (Noun)
+mAksIzIn	maksızın/meksizin	ger	Adv+GER+WO	Gerundium (Adverb)
+mAktA	makta/mekte	tns1	CONTI+PER3S	Continuous Tense
+mAlI	malı/meli	tns1	NEC+PER3S	Necessitative Mood
+mE	ma/me/mı/mi/mu/mü	neg	NEG	Negative
+mHş	mış/miş/muş/müş	tns1	PAST+NARR+PER3S	Narrative Past Tense
+mHş	mış/miş/muş/müş	par1	Adj+PAR+PAST	Participle (Adjective)
+n	n	per2	PER2S	2nd Person Singular
+n	n	per11	PER2S	2nd Person Singular
+NA	na/ne/ya/ye/a/e	case1	DAT	Dative Case
+NA	na/ne/ya/ye/a/e	case3	DAT	Dative Case
+NCA	nca/nce/ca/ce/ça/çe	case1	EQU	Equative
+NDA	nda/nde/da/de/ta/te	case2	LOC	Locative Case
+NDA	nda/nde/da/de/ta/te	case1	LOC	Locative Case
+NDAn	ndan/nden/dan/den/tan/ten	case1	ABL	Ablative Case
+NDAn	ndan/nden/dan/den/tan/ten	case3	ABL	Ablative Case
+NH	nı/ni/nu/nü/yı/yi/yu/yü/ı/i/u/ü	case1	ACC	Accusative Case
+NHn	nın/nin/nun/nün/ın/in/un/ün	case2	GEN	Genitive Case
+NHn	nın/nin/nun/nün/ın/in/un/ün	case1	GEN	Genitive Case
+nHz	nız/niz/nuz/nüz	per2	PER2P	2nd Person Plural
+nHz	nız/niz/nuz/nüz	per11	PER2P	2nd Person Plural
+sA	sa/se	tns6	COND+PER3S	Wish/Condition Mood
+sAl	sal/sel	adjs2	Adj+SC	Schema Changer Noun>>Adjective
+SH	sı/si/su/sü/ı/i/u/ü	poss1	POS3S	3rd Person Singular Possesive
+SH	sı/si/su/sü/ı/i/u/ü	poss2	POS3S	3rd Person Singular Possesive
+SH	sı/si/su/sü/ı/i/u/ü	poss3	POS3S	3rd Person Singular Possesive
+sH	sı/si/su/sü	adjs4	SIM	Similarity
+sHn	sın/sin/sun/sün	per5	IMP+PER3S	Imperative 3rd Person Singular
+sHn	sın/sin/sun/sün	per4	PER2S	2nd Person Singular
+sHn	sın/sin/sun/sün	per3	PER2S	2nd Person Singular
+sHn	sın/sin/sun/sün	per1	PER2S	2nd Person Singular
+sHn	sın/sin/sun/sün	aux7	V'+AOR+PER2S	2nd Person Singular Auxiliary
+sHn	sın/sin/sun/sün	per10	PER2S	2nd Person Singular
+sHnHz	sınız/siniz/sunuz/sünüz	per4	PER2P	2nd Person Plural
+sHnHz	sınız/siniz/sunuz/sünüz	per3	PER2P	2nd Person Plural
+sHnHz	sınız/siniz/sunuz/sünüz	per1	PER2P	2nd Person Plural
+sHnHz	sınız/siniz/sunuz/sünüz	aux7	V'+AOR+PER2P	2nd Person Plural Auxiliary
+sHnHz	sınız/siniz/sunuz/sünüz	per10	PER2P	2nd Person Plural
+sHnlAr	sınlar/sinler/sunlar/sünler	per5	IMP+PER3P	Imperative 3nd Person Plural
+sHz	sız/siz/suz/süz	ns4	N+SC	Schema Changer Adjective>>Noun
+sHz	sız/siz/suz/süz	adjs3	Adj+SC	Schema Changer Noun>>Adjective
+t	t	caus1	CAUS	Causative
+UL	ıl/il/ul/ül/ın/in/un/ün/n	pass	PASS	Passive
+Um	ım/im/um/üm/m	poss1	POS1S	1st Person Singular Possesive
+Um	ım/im/um/üm/m	poss4	POS1S	1st Person Singular Possesive
+Um	ım/im/um/üm/m	poss2	POS1S	1st Person Singular Possesive
+Um	ım/im/um/üm/m	poss3	POS1S	1st Person Singular Possesive
+UmHz	ımız/imiz/umuz/ümüz/mız/miz/muz/müz	poss1	POS1P	1st Person Plural Possesive
+UmHz	ımız/imiz/umuz/ümüz/mız/miz/muz/müz	poss2	POS1P	1st Person Plural Possesive
+UmHz	ımız/imiz/umuz/ümüz/mız/miz/muz/müz	poss3	POS1P	1st Person Plural Possesive
+UmsH	ımsı/imsi/umsu/ümsü/msı/msi/msu/msü	adjs4	SIM	Similarity
+Un	ın/in/un/ün/n	poss1	POS2S	2nd Person Singular Possesive
+Un	ın/in/un/ün/n	poss4	POS2S	2nd Person Singular Possesive
+Un	ın/in/un/ün/n	poss2	POS2S	2nd Person Singular Possesive
+Un	ın/in/un/ün/n	poss3	POS2S	2nd Person Singular Possesive
+UnHz	ınız/iniz/unuz/ünüz/nız/niz/nuz/nüz	poss1	POS2P	2nd Person Plural Possesive
+UnHz	ınız/iniz/unuz/ünüz/nız/niz/nuz/nüz	poss2	POS2P	2nd Person Plural Possesive
+UnHz	ınız/iniz/unuz/ünüz/nız/niz/nuz/nüz	poss3	POS2P	2nd Person Plural Possesive
+Uyor	ıyor/iyor/uyor/üyor/yor	tns1	CONTI+PER3S	Continuous Tense
+Xr	ar/er/ır/ir/ur/ür/r	tns2	AOR+PER3S	Aorist Tense
+YA	ya/ye/a/e	ger	Adv+GER	Gerundium (Adverb)
+YA	ya/ye/a/e	tns4	OPT+PER3S	Optative Mood
+YAbil	yabil/yebil/abil/ebil	comp1	CV+ABIL	Compound Verb (Ability)
+YAbil	yabil/yebil/abil/ebil	comp2	CV+ABIL	Compound Verb (Ability)
+YAcAK	yacak/yecek/acak/ecek/yacağ/yeceğ/acağ/eceğ	tns1	FUT+PER3S	Future Tense
+YAcAK	yacak/yecek/acak/ecek/yacağ/yeceğ/acağ/eceğ	par1	Adj+PAR+FUT	Participle (Adjective)
+YAdur	yadur/yedur/adur/edur	comp1	CV+DUR	Compound Verb (Durative)
+YAgel	yagel/yegel/agel/egel	comp1	CV+DUR	Compound Verb (Durative)
+YAgör	yagör/yegör/agör/egör	comp2	CV+DUR	Compound Verb (Durative)
+YAkal	yakal/yekal/akal/ekal	comp1	CV+DUR	Compound Verb (Durative)
+YAkoy	yakoy/yekoy/akoy/ekoy	comp1	CV+DUR	Compound Verb (Durative)
+YAlI	yalı/yeli/alı/eli	ger	Adv+GER+SNC	Gerundium (Adverb)
+YAmAdAn	yamadan/yemeden/amadan/emeden	ger	Adv+GER+INAB	Gerundium (Adverb)
+YAmE	yama/yeme/yamı/yemi/ama/eme/amı/emi	neg	NEG+INAB	Negative (Inability)
+YAn	yan/yen/an/en	par1	Adj+PAR+CONTI	Participle (Adjective)
+YArAk	yarak/yerek/arak/erek	ger	Adv+GER+BY	Gerundium (Adverb)
+YArAk	yarak/yerek/arak/erek	ger3	Adv+GER+BY	Gerundium (Adverb)
+YAsI	yası/yesi/ası/esi	par1	Adj+PAR+NEAR	Participle (Adjective)
+YAyaz	yayaz/yeyaz/ayaz/eyaz	comp1	CV+NEAR	Compound Verb (Nearness)
+YDH	ydı/ydi/ydu/ydü/dı/di/du/dü/tı/ti/tu/tü	aux2	V'+PAST+OBS	Observed Past Auxiliary
+YDH	ydı/ydi/ydu/ydü/dı/di/du/dü/tı/ti/tu/tü	aux3	V'+PAST+OBS	Observed Past Auxiliary
+YDH	ydı/ydi/ydu/ydü/dı/di/du/dü/tı/ti/tu/tü	aux5	V'+PAST+OBS+PER3S	Observed Past Auxiliary
+YDH	ydı/ydi/ydu/ydü/dı/di/du/dü/tı/ti/tu/tü	aux9	V'+PAST+OBS	Observed Past Auxiliary
+YHcH	yıcı/yici/yucu/yücü/ıcı/ici/ucu/ücü	ns1	N+SC	Schema Changer Noun>>Noun
+YHcH	yıcı/yici/yucu/yücü/ıcı/ici/ucu/ücü	adjs1	Adj+SC	Schema Changer Verb>>Adjective
+YHm	yım/yim/yum/yüm/ım/im/um/üm	per4	PER1S	1st Person Singular
+YHm	yım/yim/yum/yüm/ım/im/um/üm	per1	PER1S	1st Person Singular
+YHm	yım/yim/yum/yüm/ım/im/um/üm	aux7	V'+AOR+PER1S	1st Person Singular Auxiliary
+YHm	yım/yim/yum/yüm/ım/im/um/üm	per10	PER1S	1st Person Singular
+YHn	yın/yin/yun/yün/ın/in/un/ün	per5	IMP+PER2P	Imperative 2nd Person Plural
+YHncA	yınca/yince/yunca/yünce/ınca/ince/unca/ünce	ger	Adv+GER+WHEN	Gerundium (Adverb)
+YHncA	yınca/yince/yunca/yünce/ınca/ince/unca/ünce	ger2	Adv+GER+WHEN	Gerundium (Adverb)
+YHnHz	yınız/yiniz/yunuz/yünüz/ınız/iniz/unuz/ünüz	per5	IMP+PER2P+KIND	Imperative 2nd Person Plural
+YHp	yıp/yip/yup/yüp/ıp/ip/up/üp	ger	Adv+GER+AFT	Gerundium (Adverb)
+YHş	yış/yiş/yuş/yüş/ış/iş/uş/üş	inf1	N+INF	Infinitive (Noun)
+YHver	yıver/yiver/yuver/yüver/ıver/iver/uver/üver	comp1	CV+QUICK	Compound Verb (Quickness)
+YHver	yıver/yiver/yuver/yüver/ıver/iver/uver/üver	comp2	CV+QUICK	Compound Verb (Quickness)
+YHz	yız/yiz/yuz/yüz/ız/iz/uz/üz	per3	AOR+PER1P	1st Person Plural
+YHz	yız/yiz/yuz/yüz/ız/iz/uz/üz	per1	PER1P	1st Person Plural
+YHz	yız/yiz/yuz/yüz/ız/iz/uz/üz	aux7	V'+AOR+PER1P	1st Person Plural Auxiliary
+YHz	yız/yiz/yuz/yüz/ız/iz/uz/üz	per10	PER1P	1st Person Plural
+Yken	yken/ken	ger	V'+Adv+WHL	Auxiliary Adverb
+Yken	yken/ken	advs	V'+Adv	Auxiliary Adverb
+YlA	yla/yle/la/le	case1	INS	Instrumental Case
+YlA	yla/yle/la/le	ile	ILE	Ile Postposition/Conjunction
+YmHş	ymış/ymiş/ymuş/ymüş/mış/miş/muş/müş	aux1	V'+PAST+NARR	Narrative Past Auxiliary
+YmHş	ymış/ymiş/ymuş/ymüş/mış/miş/muş/müş	aux3	V'+PAST+NARR	Narrative Past Auxiliary
+YmHş	ymış/ymiş/ymuş/ymüş/mış/miş/muş/müş	aux4	V'+PAST+NARR+PER3S	Narrative Past Auxiliary
+YmHş	ymış/ymiş/ymuş/ymüş/mış/miş/muş/müş	aux9	V'+PAST+NARR	Narrative Past Auxiliary
+YsA	ysa/yse/sa/se	aux2	V'+COND	Conditional Auxiliary
+YsA	ysa/yse/sa/se	aux3	V'+COND	Conditional Auxiliary
+YsA	ysa/yse/sa/se	aux5	V'+COND+PER3S	Conditional Auxiliary
+YsA	ysa/yse/sa/se	aux9	V'+COND	Conditional Auxiliary
+z	z	tns3	AOR+PER3S	Aorist Tense
+z	z	par2	Adj+PAR+AOR	Participle (Adjective)
+Zt	ıt/it/ut/üt/t	fact2	FACT	Factitive
